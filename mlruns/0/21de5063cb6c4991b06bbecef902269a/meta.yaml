@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/21de5063cb6c4991b06bbecef902269a/artifacts
+end_time: 1774380808490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21de5063cb6c4991b06bbecef902269a
+run_name: languid-croc-906
+run_uuid: 21de5063cb6c4991b06bbecef902269a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774380795164
+status: 4
+tags: []
+user_id: User
